@@ -2,7 +2,7 @@
 /**
  * PipraPay
  *
- * @copyright PipraPay, Inc (https://www.piprapay.com)
+ * @copyright PipraPay (https://www.piprapay.com)
  * @license   Apache-2.0
  *
  * Copyright PipraPay
